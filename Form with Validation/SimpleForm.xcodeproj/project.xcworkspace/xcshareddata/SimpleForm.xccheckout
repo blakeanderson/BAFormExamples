@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0D8BA6EE-492B-4A57-A4CB-0731BE2FEF9D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SimpleForm</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3406A8BA-9D98-4CD5-930E-3B44B5C5407B</key>
+		<string>https://github.com/blakeanderson/BAFormExamples.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Form with Validation/SimpleForm.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3406A8BA-9D98-4CD5-930E-3B44B5C5407B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/blakeanderson/BAFormExamples.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3406A8BA-9D98-4CD5-930E-3B44B5C5407B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3406A8BA-9D98-4CD5-930E-3B44B5C5407B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BAFormExamples</string>
+		</dict>
+	</array>
+</dict>
+</plist>
